@@ -1,0 +1,14 @@
+C:\Users\Burhan\source\repos\denee\denee\bin\Debug\denee.exe.config
+C:\Users\Burhan\source\repos\denee\denee\bin\Debug\denee.exe
+C:\Users\Burhan\source\repos\denee\denee\bin\Debug\denee.pdb
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.csproj.AssemblyReference.cache
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.Form1.resources
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.Properties.Resources.resources
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.csproj.GenerateResource.cache
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.exe
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.pdb
+C:\Users\Burhan\source\repos\denee\denee\bin\Debug\WebDriver.dll
+C:\Users\Burhan\source\repos\denee\denee\obj\Debug\denee.csproj.CopyComplete
+C:\Users\Burhan\source\repos\denee\denee\bin\Debug\Konuşma yakalayıcı.dll
